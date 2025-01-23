@@ -45,9 +45,8 @@ setup(
     license = "BSD-3",
     keywords = "Eyetracking classification",
     url = "https://github.com/DiGyt/cateyes",
-    packages = ["cateyes"],
+    packages = ["libcity"],
     include_package_data=True,
-    long_description=read('README.md'),
     long_description_content_type='text/markdown',
     classifiers=[
         "Development Status :: 3 - Alpha",
