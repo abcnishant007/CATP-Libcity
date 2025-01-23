@@ -115,7 +115,7 @@ REQS = [
     "smart-open==7.1.0",
     "statsmodels==0.11.0",
     "tabulate==0.8.9",
-    "tensorboard==2.4.1",
+    "tensorboard==2.11.0",
     "tensorboard-data-server==0.6.1",
     "tensorboard-plugin-wit==1.8.1",
     "tensorboardX==2.2",
