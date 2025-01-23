@@ -86,7 +86,7 @@ REQS = [
     "pkgutil_resolve_name==1.3.10",
     "platformdirs==4.0.0",
     "prometheus-client==0.17.1",
-    "protobuf==3.*",
+    "protobuf==3.20.*",
     "psutil==6.1.1",
     "py==1.11.0",
     "py-spy==0.4.0",
