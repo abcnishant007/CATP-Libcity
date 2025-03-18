@@ -1,3 +1,14 @@
+- Checkout to commit 5852dcfd022fb4307be2da586029be9905a9b2ee
+- Use the yml called `libcityenvyatao.yml` to create a new conda env
+- Then use the library `libcityenvyatao`
+
+
+
+
+
+
+
+
 ![](https://bigscity-libcity-docs.readthedocs.io/en/latest/_images/logo.png)
 
 ------
